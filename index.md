@@ -1,25 +1,18 @@
-## welcome to SOkind bot!
+## 쏘카봇에게 무엇이든 물어보세요!
 
-You can use the [editor on GitHub](https://github.com/jiwonnnnnnnn/SOkind_bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+우리반에 대해 알려주는 쏘카봇
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+궁금한 내용
 
-# Header 1
-## Header 2
-### Header 3
+# **시간표** 
+## **역할분담**
+### **운동장 사용일** 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
