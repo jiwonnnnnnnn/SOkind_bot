@@ -9,14 +9,13 @@
 궁금한 내용을 아래의 챗봇에서 물어보세요!
 궁금한 단어를 클릭하거나, 궁금한 내용을 채팅창에 입력하면 됩니다. 
 # 5-8 역할 
-**역할 내용과 역할 시간에 대해 알려드려요. 
+**역할 내용과 역할 시간에 대해 알려드려요.** 
 ## 5-8 시간표 
-시간표가 궁금한 요일을 입력하세요. 
+**시간표가 궁금한 요일을 입력하세요.** 
 ### 5-8 활동
-요일별 아침활동과 점심활동을 알려드려요. 
+**요일별 아침활동과 점심활동을 알려드려요.** 
 
 
-<http://naver.com>
 
 1. 첫번째 순서 
 
@@ -26,7 +25,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://www.hiclass.net/main/clazzes/746610cb-555f-42cc-a577-3ef9434cf62a](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
