@@ -1,6 +1,6 @@
 ## welcome sokindbot!😉
 
-<img src= "https://github.com/jiwonnnnnnnn/SOkind_bot/issues/3#issue-1237908754">
+<img src= "https://user-images.githubusercontent.com/104754355/169177744-1e2759e0-0e11-4d43-89f8-758d2d325f17.PNG">
 
 우리반에 대해 궁금한 내용을 친절하게 알려드려요 😊
 
