@@ -1,6 +1,6 @@
 ## welcome sokindbot!😉
 
-
+<img src= "https://github.com/jiwonnnnnnnn/SOkind_bot/issues/3#issue-1237908754">
 
 우리반에 대해 궁금한 내용을 친절하게 알려드려요 😊
 
@@ -10,11 +10,13 @@
 
 # 5-8 역할 
 **역할 내용과 역할 시간에 대해 알려드려요.** 
-## 5-8 시간표 
+# 5-8 시간표 
 **시간표가 궁금한 요일을 입력하세요.** 
-### 5-8 활동
+# 5-8 활동
 **요일별 아침활동과 점심활동을 알려드려요.** 
 
-이외의 안내사항이나 알림장을 확인하고 싶으신 분은 아래의 하이클래스 링크를 클릭하여 주세요. 
+이외의 안내사항이나 알림장을 확인하고 싶으신 분은 하이클래스 링크를 클릭하여 주세요. 
+(학급 하이클래스 초대장이 있으신 분만 연결 가능합니다.😜)
 [https://www.hiclass.net/main/clazzes/746610cb-555f-42cc-a577-3ef9434cf62a](url) 
-![This is an image][(https://user-images.githubusercontent.com/104754355/168705067-4e6f4234-5a5f-4bba-98de-d9d85561da74.PNG)]
+
+
