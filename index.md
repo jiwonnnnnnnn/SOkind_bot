@@ -17,4 +17,4 @@
 
 이외의 안내사항이나 알림장을 확인하고 싶으신 분은 아래의 하이클래스 링크를 클릭하여 주세요. 
 [https://www.hiclass.net/main/clazzes/746610cb-555f-42cc-a577-3ef9434cf62a](url) 
-![https://github.com/jiwonnnnnnnn/SOkind_bot/issues/3#issue-1237908754](src)
+![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/jiwonnnnnnnn/SOkind_bot/issues/3#issue-1237908754))
